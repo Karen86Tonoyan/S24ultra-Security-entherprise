@@ -52,3 +52,5 @@ QUICKSTART.md
 Status: SCENARIUSZ D ✅ UKOŃCZONY
 Teraz wykonuj SCENARIUSZ A - build APK i testuj na S24 Ultra.
 Pytania? Problemy? Powiedz mi - jesteśmy w tym razem! 💪🔥
+<img width="2752" height="1536" alt="unnamed (16)" src="https://github.com/user-attachments/assets/f1c2b3a6-a4c6-4be8-aba4-0b011da7b965" />
+<img width="2752" height="1536" alt="unnamed (15)" src="https://github.com/user-attachments/assets/f7e7018b-8ac1-41af-93e4-34f4ae058269" />
